@@ -1,3 +1,5 @@
+//compile with: javac assignment8.java
+//run with: java assignment8
 import java.util.ArrayList;
 
 public class assignment8 
